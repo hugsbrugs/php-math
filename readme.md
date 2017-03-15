@@ -35,3 +35,7 @@ Math::dice($str1 = '', $str2 = '');
 ```
 composer exec phpunit
 ```
+
+## Author
+
+Hugo Maugey [visit my website ;)](https://hugo.maugey.fr)
