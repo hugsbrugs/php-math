@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":202:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:23:"MathTest::testCanModulo";d:0.001;s:26:"MathTest::testCannotModulo";d:0.001;s:21:"MathTest::testCanDice";d:0.332;s:24:"MathTest::testCannotDice";d:0.006;}}}

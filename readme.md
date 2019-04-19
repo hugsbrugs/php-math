@@ -33,7 +33,7 @@ Math::dice($str1 = '', $str2 = '');
 ## Unit Tests
 
 ```
-composer exec phpunit
+phpunit --bootstrap vendor/autoload.php test
 ```
 
 ## Author
